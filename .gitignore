@@ -1,0 +1,10 @@
+*.xml
+*.jar
+*.rvm
+*.aj
+*output.txt
+*temp.txt
+out
+.idea
+*.iml
+bin
